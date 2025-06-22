@@ -4,7 +4,7 @@ A full-stack web application for managing items with the ability to add new item
 
 ---
 ## Live Link : 
-[https://your-demo-link.com](https://your-demo-link.com)
+[https://item-store.vercel.app/](https://item-store.vercel.app/)
 ## Features
 
 ### Core Features
