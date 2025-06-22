@@ -1,0 +1,9 @@
+.main-content {
+    flex: 1;
+    min-height: calc(100vh - 80px);
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+ 
